@@ -20,10 +20,6 @@
         </activity>
         <activity android:name=".view.ContainerActivity" />
         <activity
-            android:name=".ReferenciaActivity"
-            android:label="@string/title_activity_referencia"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".view.CreateAccountActivity"
             android:parentActivityName=".MainActivity">
             <meta-data
