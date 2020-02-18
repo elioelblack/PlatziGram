@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PlatziGram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">Crea una aqui</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_password_confirm">Confirmar contraseña</string>
+    <string name="text_button_createAccount">Unete</string>
+    <string name="toolbar_title_createaccount">Crear cuenta</string>
+    <string name="user_name_card">Eliezer Hernandez</string>
+    <string name="first_word_card">Hace</string>
+    <string name="time_card">4 dias</string>
+    <string name="like_number_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="tittleimagedetail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="transitionname_para_picture">transitionnamepicture</string>
+</resources>
